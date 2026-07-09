@@ -1,0 +1,55 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "manhwa_bot"
+version = "2.0.0"
+description = "Thin Discord bot that delegates manga scraping to a crawler service"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "LICENSE" }
+authors = [{ name = "MooshiMochi" }]
+dependencies = [
+    "discord-py>=2.7",
+    "aiohttp>=3.9",
+    "aiosqlite>=0.20",
+    "hatchling>=1.30.1",
+    "cloudscraper>=1.2.71",
+    "beautifulsoup4>=4.15.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "ruff>=0.5",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/manhwa_bot"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py314"
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "I",    # isort
+    "B",    # flake8-bugbear
+    "UP",   # pyupgrade
+    "RUF",  # ruff-specific
+]
+ignore = [
+    "E501",  # line too long (formatter handles it)
+    "RUF001",  # ambiguous-unicode-character (decorative emoji glyphs)
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

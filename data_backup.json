@@ -1,0 +1,1945 @@
+{
+  "exported_at": "2026-07-03T14:01:27.303609+00:00",
+  "guild_channels": [
+    {
+      "guild_id": 1481718193608462497,
+      "channel_id": 1484325879764226109
+    }
+  ],
+  "news_channels": [
+    {
+      "guild_id": 1481718193608462497,
+      "channel_id": 1484325879764226109
+    }
+  ],
+  "subscriptions": [],
+  "user_dm_subscriptions": [
+    {
+      "user_id": 1471245404501839966,
+      "manga_url": "https://manga-starz.net/manga/chainsaw-man/",
+      "manga_title": "Chainsaw Man"
+    },
+    {
+      "user_id": 1471245404501839966,
+      "manga_url": "https://manga-starz.net/manga/underworld-restaurant/",
+      "manga_title": "Underworld Restaurant"
+    }
+  ],
+  "seen_chapters": [
+    {
+      "chapter_url": "https://manga-starz.net/manga/underworld-restaurant/106/",
+      "manga_title": "Underworld Restaurant",
+      "chapter_num": "106",
+      "seen_at": "2026-07-03 13:19:59"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-god-of-war-is-leveling-up/83/",
+      "manga_title": "The God of War is Leveling Up",
+      "chapter_num": "83",
+      "seen_at": "2026-07-03 13:19:58"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/underworld-restaurant/107/",
+      "manga_title": "Underworld Restaurant",
+      "chapter_num": "107",
+      "seen_at": "2026-07-03 13:19:58"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-god-of-war-is-leveling-up/84/",
+      "manga_title": "The God of War is Leveling Up",
+      "chapter_num": "84",
+      "seen_at": "2026-07-03 13:19:57"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/voodoo-slam/7/",
+      "manga_title": "Voodoo Slam",
+      "chapter_num": "7",
+      "seen_at": "2026-07-03 12:24:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-seventh-prince-wants-to-bail/9/",
+      "manga_title": "The Seventh Prince Wants to Bail",
+      "chapter_num": "9",
+      "seen_at": "2026-07-03 12:24:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/voodoo-slam/8/",
+      "manga_title": "Voodoo Slam",
+      "chapter_num": "8",
+      "seen_at": "2026-07-03 12:24:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-seventh-prince-wants-to-bail/10/",
+      "manga_title": "The Seventh Prince Wants to Bail",
+      "chapter_num": "10",
+      "seen_at": "2026-07-03 12:24:24"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/solo-max-level-newbie/265/",
+      "manga_title": "Solo Max-Level Newbie",
+      "chapter_num": "265",
+      "seen_at": "2026-07-03 12:13:27"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/solo-max-level-newbie/266/",
+      "manga_title": "Solo Max-Level Newbie",
+      "chapter_num": "266",
+      "seen_at": "2026-07-03 12:13:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-support-ate-it-all/36/",
+      "manga_title": "The Support Ate it All",
+      "chapter_num": "36",
+      "seen_at": "2026-07-03 12:13:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/after-the-school-belle-dumped-me-i-became-a-martial-arts-god/97/",
+      "manga_title": "After the School Belle Dumped Me, I Became a Martial Arts God",
+      "chapter_num": "97",
+      "seen_at": "2026-07-03 12:13:21"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-support-ate-it-all/37/",
+      "manga_title": "The Support Ate it All",
+      "chapter_num": "37",
+      "seen_at": "2026-07-03 12:13:21"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/after-the-school-belle-dumped-me-i-became-a-martial-arts-god/98/",
+      "manga_title": "After the School Belle Dumped Me, I Became a Martial Arts God",
+      "chapter_num": "98",
+      "seen_at": "2026-07-03 12:13:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/rebirth-of-the-divine-demon/49/",
+      "manga_title": "Rebirth of the Divine Demon",
+      "chapter_num": "49",
+      "seen_at": "2026-07-03 12:13:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/rebirth-of-the-divine-demon/50/",
+      "manga_title": "Rebirth of the Divine Demon",
+      "chapter_num": "50",
+      "seen_at": "2026-07-03 12:13:18"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-necromancer-of-a-renowned-sword-family/10/",
+      "manga_title": "The Necromancer of a Renowned Sword Family",
+      "chapter_num": "10",
+      "seen_at": "2026-07-03 12:13:17"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/like-a-chilling-flame/29/",
+      "manga_title": "Like A Chilling Flame",
+      "chapter_num": "29",
+      "seen_at": "2026-07-03 12:13:16"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-necromancer-of-a-renowned-sword-family/11/",
+      "manga_title": "The Necromancer of a Renowned Sword Family",
+      "chapter_num": "11",
+      "seen_at": "2026-07-03 12:13:16"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/like-a-chilling-flame/30/",
+      "manga_title": "Like A Chilling Flame",
+      "chapter_num": "30",
+      "seen_at": "2026-07-03 12:13:15"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/villain-is-here/340/",
+      "manga_title": "Villain Is Here",
+      "chapter_num": "340",
+      "seen_at": "2026-07-03 12:13:14"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/villain-is-here/341/",
+      "manga_title": "Villain Is Here",
+      "chapter_num": "341",
+      "seen_at": "2026-07-03 12:13:13"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-extras-academy-survival-guide/112/",
+      "manga_title": "The Extra’s Academy Survival Guide",
+      "chapter_num": "112",
+      "seen_at": "2026-07-03 12:13:09"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-extras-academy-survival-guide/113/",
+      "manga_title": "The Extra’s Academy Survival Guide",
+      "chapter_num": "113",
+      "seen_at": "2026-07-03 12:13:08"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/dark-and-light-martial-emperor/57/",
+      "manga_title": "Dark and Light Martial Emperor",
+      "chapter_num": "57",
+      "seen_at": "2026-07-03 12:13:07"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/dark-and-light-martial-emperor/56/",
+      "manga_title": "Dark and Light Martial Emperor",
+      "chapter_num": "56",
+      "seen_at": "2026-07-03 12:13:07"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/raising-villains-the-right-way/41/",
+      "manga_title": "Raising villains the right way",
+      "chapter_num": "41",
+      "seen_at": "2026-07-03 12:13:06"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-ruler-of-darkness/1/",
+      "manga_title": "The Ruler Of Darkness",
+      "chapter_num": "1",
+      "seen_at": "2026-07-03 12:13:05"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/raising-villains-the-right-way/42/",
+      "manga_title": "Raising villains the right way",
+      "chapter_num": "42",
+      "seen_at": "2026-07-03 12:13:05"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-ruler-of-darkness/2/",
+      "manga_title": "The Ruler Of Darkness",
+      "chapter_num": "2",
+      "seen_at": "2026-07-03 12:13:04"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/magic-emperor/876/",
+      "manga_title": "Magic emperor",
+      "chapter_num": "876",
+      "seen_at": "2026-07-03 12:13:03"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/magic-emperor/875/",
+      "manga_title": "Magic emperor",
+      "chapter_num": "875",
+      "seen_at": "2026-07-03 12:13:03"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-reincarnated-assassin-is-a-genius-swordsman/90/",
+      "manga_title": "The Reincarnated Assassin is a Genius Swordsman",
+      "chapter_num": "90",
+      "seen_at": "2026-07-03 12:12:58"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-reincarnated-assassin-is-a-genius-swordsman/91/",
+      "manga_title": "The Reincarnated Assassin is a Genius Swordsman",
+      "chapter_num": "91",
+      "seen_at": "2026-07-03 12:12:57"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-return-of-the-unrivaled-genius-ranker/27/",
+      "manga_title": "The Return of the Unrivaled Genius Ranker",
+      "chapter_num": "27",
+      "seen_at": "2026-07-03 12:12:56"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-return-of-the-unrivaled-genius-ranker/26/",
+      "manga_title": "The Return of the Unrivaled Genius Ranker",
+      "chapter_num": "26",
+      "seen_at": "2026-07-03 12:12:56"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-regressed-extra-becomes-a-genius/49/",
+      "manga_title": "The Regressed Extra Becomes a Genius",
+      "chapter_num": "49",
+      "seen_at": "2026-07-03 12:12:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/dao-of-the-bizarre-immortal/85/",
+      "manga_title": "Dao of the Bizarre Immortal",
+      "chapter_num": "85",
+      "seen_at": "2026-07-03 12:12:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-regressed-extra-becomes-a-genius/50/",
+      "manga_title": "The Regressed Extra Becomes a Genius",
+      "chapter_num": "50",
+      "seen_at": "2026-07-03 12:12:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-took-over-the-academy-with-a-single-sashimi-knife/83/",
+      "manga_title": "I Took Over the Academy With a Single Sashimi Knife",
+      "chapter_num": "83",
+      "seen_at": "2026-07-03 12:12:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/dao-of-the-bizarre-immortal/86/",
+      "manga_title": "Dao of the Bizarre Immortal",
+      "chapter_num": "86",
+      "seen_at": "2026-07-03 12:12:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-took-over-the-academy-with-a-single-sashimi-knife/84/",
+      "manga_title": "I Took Over the Academy With a Single Sashimi Knife",
+      "chapter_num": "84",
+      "seen_at": "2026-07-03 12:12:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/hunter-x-hunter/411/",
+      "manga_title": "Hunter X Hunter",
+      "chapter_num": "411",
+      "seen_at": "2026-07-02 22:41:56"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/hunter-x-hunter/412/",
+      "manga_title": "Hunter X Hunter",
+      "chapter_num": "412",
+      "seen_at": "2026-07-02 22:41:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/fog-land/43/",
+      "manga_title": "Fog Land",
+      "chapter_num": "43",
+      "seen_at": "2026-07-02 19:19:38"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/fog-land/44/",
+      "manga_title": "Fog Land",
+      "chapter_num": "44",
+      "seen_at": "2026-07-02 19:19:37"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/artifact-devouring-player/46/",
+      "manga_title": "Artifact-Devouring Player",
+      "chapter_num": "46",
+      "seen_at": "2026-07-02 19:08:36"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-beginning-after-the-end/241/",
+      "manga_title": "The Beginning After the End",
+      "chapter_num": "241",
+      "seen_at": "2026-07-02 19:08:35"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/artifact-devouring-player/47/",
+      "manga_title": "Artifact-Devouring Player",
+      "chapter_num": "47",
+      "seen_at": "2026-07-02 19:08:35"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-law-of-immutability/10/",
+      "manga_title": "The Law of Immutability",
+      "chapter_num": "10",
+      "seen_at": "2026-07-02 19:08:34"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-beginning-after-the-end/242/",
+      "manga_title": "The Beginning After the End",
+      "chapter_num": "242",
+      "seen_at": "2026-07-02 19:08:34"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-law-of-immutability/11/",
+      "manga_title": "The Law of Immutability",
+      "chapter_num": "11",
+      "seen_at": "2026-07-02 19:08:33"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/all-my-alter-egos-are-tycoons/84/",
+      "manga_title": "All My Alter Egos Are Tycoons",
+      "chapter_num": "84",
+      "seen_at": "2026-07-02 18:56:30"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/all-my-alter-egos-are-tycoons/85/",
+      "manga_title": "All My Alter Egos Are Tycoons",
+      "chapter_num": "85",
+      "seen_at": "2026-07-02 18:56:29"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/cardcaptor-sakura-clear-card-arc/49-5/",
+      "manga_title": "Cardcaptor Sakura – Clear Card Arc",
+      "chapter_num": "49.5",
+      "seen_at": "2026-07-02 18:56:28"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/heavenly-demon-wants-to-be-a-chef/43/",
+      "manga_title": "Heavenly Demon Wants to Be A Chef",
+      "chapter_num": "43",
+      "seen_at": "2026-07-02 18:56:27"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/cardcaptor-sakura-clear-card-arc/49-6/",
+      "manga_title": "Cardcaptor Sakura – Clear Card Arc",
+      "chapter_num": "49.6",
+      "seen_at": "2026-07-02 18:56:27"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/return-of-the-apocalypse-class-death-knight/76/",
+      "manga_title": "Return of the Apocalypse-Class Death Knight",
+      "chapter_num": "76",
+      "seen_at": "2026-07-02 18:56:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/heavenly-demon-wants-to-be-a-chef/44/",
+      "manga_title": "Heavenly Demon Wants to Be A Chef",
+      "chapter_num": "44",
+      "seen_at": "2026-07-02 18:56:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/return-of-the-apocalypse-class-death-knight/77/",
+      "manga_title": "Return of the Apocalypse-Class Death Knight",
+      "chapter_num": "77",
+      "seen_at": "2026-07-02 18:56:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent/31/",
+      "manga_title": "A Boy Raised by the Ultimate Dragon Wants to Be Fostered by Someone Stronger Than His Parent!",
+      "chapter_num": "31",
+      "seen_at": "2026-07-02 18:56:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent/30/",
+      "manga_title": "A Boy Raised by the Ultimate Dragon Wants to Be Fostered by Someone Stronger Than His Parent!",
+      "chapter_num": "30",
+      "seen_at": "2026-07-02 18:56:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-gave-up-being-stronger/29/",
+      "manga_title": "I Gave Up Being Stronger",
+      "chapter_num": "29",
+      "seen_at": "2026-07-02 18:56:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-perfect-seniors-secret/14/",
+      "manga_title": "The Perfect Senior’s Secret!",
+      "chapter_num": "14",
+      "seen_at": "2026-07-02 18:56:18"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-gave-up-being-stronger/30/",
+      "manga_title": "I Gave Up Being Stronger",
+      "chapter_num": "30",
+      "seen_at": "2026-07-02 18:56:18"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-perfect-seniors-secret/15/",
+      "manga_title": "The Perfect Senior’s Secret!",
+      "chapter_num": "15",
+      "seen_at": "2026-07-02 18:56:17"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/our-guilds-idol/51/",
+      "manga_title": "Our guild’s idol",
+      "chapter_num": "51",
+      "seen_at": "2026-07-02 18:56:16"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/wana-ni-kakatta-villain-kun/3/",
+      "manga_title": "Wana ni Kakatta Villain-kun",
+      "chapter_num": "3",
+      "seen_at": "2026-07-02 18:56:15"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/our-guilds-idol/52/",
+      "manga_title": "Our guild’s idol",
+      "chapter_num": "52",
+      "seen_at": "2026-07-02 18:56:15"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/wana-ni-kakatta-villain-kun/4/",
+      "manga_title": "Wana ni Kakatta Villain-kun",
+      "chapter_num": "4",
+      "seen_at": "2026-07-02 18:56:14"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/develys-healing-time/8/",
+      "manga_title": "Devely’s Healing Time",
+      "chapter_num": "8",
+      "seen_at": "2026-07-02 18:56:09"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-regressed-son-of-a-duke-is-an-assassin/132/",
+      "manga_title": "The Regressed Son of a Duke is an Assassin",
+      "chapter_num": "132",
+      "seen_at": "2026-07-02 18:56:08"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/develys-healing-time/9/",
+      "manga_title": "Devely’s Healing Time",
+      "chapter_num": "9",
+      "seen_at": "2026-07-02 18:56:08"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-regressed-son-of-a-duke-is-an-assassin/133/",
+      "manga_title": "The Regressed Son of a Duke is an Assassin",
+      "chapter_num": "133",
+      "seen_at": "2026-07-02 18:56:07"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/rookie-but-one-in-a-million-actor/36/",
+      "manga_title": "Rookie but One-in-a-Million Actor",
+      "chapter_num": "36",
+      "seen_at": "2026-07-02 18:56:06"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/rookie-but-one-in-a-million-actor/35/",
+      "manga_title": "Rookie but One-in-a-Million Actor",
+      "chapter_num": "35",
+      "seen_at": "2026-07-02 18:56:06"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/lookism/613/",
+      "manga_title": "Lookism",
+      "chapter_num": "613",
+      "seen_at": "2026-07-02 18:56:05"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/bully-conquest/35/",
+      "manga_title": "bully conquest",
+      "chapter_num": "35",
+      "seen_at": "2026-07-02 18:56:04"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/lookism/614/",
+      "manga_title": "Lookism",
+      "chapter_num": "614",
+      "seen_at": "2026-07-02 18:56:04"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/bully-conquest/36/",
+      "manga_title": "bully conquest",
+      "chapter_num": "36",
+      "seen_at": "2026-07-02 18:56:03"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/watch-out-for-look-alikes/6/",
+      "manga_title": "Watch Out For Look-alikes",
+      "chapter_num": "6",
+      "seen_at": "2026-07-02 18:56:02"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/jungle-juice/201/",
+      "manga_title": "Jungle Juice",
+      "chapter_num": "201",
+      "seen_at": "2026-07-02 18:55:57"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/watch-out-for-look-alikes/7/",
+      "manga_title": "Watch Out For Look-alikes",
+      "chapter_num": "7",
+      "seen_at": "2026-07-02 18:55:57"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/jungle-juice/202/",
+      "manga_title": "Jungle Juice",
+      "chapter_num": "202",
+      "seen_at": "2026-07-02 18:55:56"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/reality-quest/212/",
+      "manga_title": "Reality Quest",
+      "chapter_num": "212",
+      "seen_at": "2026-07-02 18:55:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/reality-quest/211/",
+      "manga_title": "Reality Quest",
+      "chapter_num": "211",
+      "seen_at": "2026-07-02 18:55:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/contract-admissions/6/",
+      "manga_title": "Contract Admissions",
+      "chapter_num": "6",
+      "seen_at": "2026-07-02 18:55:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/juvenile-prison/68/",
+      "manga_title": "Juvenile Prison",
+      "chapter_num": "68",
+      "seen_at": "2026-07-02 18:55:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/contract-admissions/7/",
+      "manga_title": "Contract Admissions",
+      "chapter_num": "7",
+      "seen_at": "2026-07-02 18:55:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/juvenile-prison/69/",
+      "manga_title": "Juvenile Prison",
+      "chapter_num": "69",
+      "seen_at": "2026-07-02 18:55:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-evil-ring/90/",
+      "manga_title": "The Evil Ring",
+      "chapter_num": "90",
+      "seen_at": "2026-07-02 18:55:51"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-evil-ring/89/",
+      "manga_title": "The Evil Ring",
+      "chapter_num": "89",
+      "seen_at": "2026-07-02 18:55:51"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-regressed-mercenarys-machinations/94/",
+      "manga_title": "The Regressed Mercenary’s Machinations",
+      "chapter_num": "94",
+      "seen_at": "2026-06-30 17:28:11"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-regressed-mercenarys-machinations/95/",
+      "manga_title": "The Regressed Mercenary’s Machinations",
+      "chapter_num": "95",
+      "seen_at": "2026-06-30 17:28:10"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-rogue-first-prince/42/",
+      "manga_title": "I Became The Rogue First Prince",
+      "chapter_num": "42",
+      "seen_at": "2026-06-30 17:28:09"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-rogue-first-prince/41/",
+      "manga_title": "I Became The Rogue First Prince",
+      "chapter_num": "41",
+      "seen_at": "2026-06-30 17:28:09"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/in-the-words-of-beloved-sun/37/",
+      "manga_title": "In The Words Of Beloved Sun",
+      "chapter_num": "37",
+      "seen_at": "2026-06-30 17:26:45"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-leader-of-a-cursed-idol-groupe/42/",
+      "manga_title": "I became the leader of a cursed idol groupe",
+      "chapter_num": "42",
+      "seen_at": "2026-06-30 17:26:44"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/in-the-words-of-beloved-sun/38/",
+      "manga_title": "In The Words Of Beloved Sun",
+      "chapter_num": "38",
+      "seen_at": "2026-06-30 17:26:44"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-evil-ring/84/",
+      "manga_title": "The Evil Ring",
+      "chapter_num": "84",
+      "seen_at": "2026-06-30 16:59:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-evil-ring/85/",
+      "manga_title": "The Evil Ring",
+      "chapter_num": "85",
+      "seen_at": "2026-06-30 16:59:47"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/to-my-sweetheart/37/",
+      "manga_title": "To My Sweetheart",
+      "chapter_num": "37",
+      "seen_at": "2026-06-30 16:59:46"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/to-my-sweetheart/38/",
+      "manga_title": "To My Sweetheart",
+      "chapter_num": "38",
+      "seen_at": "2026-06-30 16:59:35"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/enough-to-make-a-ghost-weep/6/",
+      "manga_title": "Enough to Make a Ghost Weep",
+      "chapter_num": "6",
+      "seen_at": "2026-06-30 16:59:34"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/enough-to-make-a-ghost-weep/5/",
+      "manga_title": "Enough to Make a Ghost Weep",
+      "chapter_num": "5",
+      "seen_at": "2026-06-30 16:59:34"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-ultimate-weapon-returns-after-100-million-years/26/",
+      "manga_title": "The Ultimate Weapon Returns After 100 Million Years",
+      "chapter_num": "26",
+      "seen_at": "2026-06-30 16:59:33"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-ultimate-weapon-returns-after-100-million-years/27/",
+      "manga_title": "The Ultimate Weapon Returns After 100 Million Years",
+      "chapter_num": "27",
+      "seen_at": "2026-06-30 16:59:32"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/reincarnated-as-a-genius-prodigy-of-a-prestigious-family/93/",
+      "manga_title": "Reincarnated as a Genius Prodigy of a Prestigious Family",
+      "chapter_num": "93",
+      "seen_at": "2026-06-30 16:48:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/absolute-regression/107/",
+      "manga_title": "Absolute Regression",
+      "chapter_num": "107",
+      "seen_at": "2026-06-30 16:48:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/reincarnated-as-a-genius-prodigy-of-a-prestigious-family/94/",
+      "manga_title": "Reincarnated as a Genius Prodigy of a Prestigious Family",
+      "chapter_num": "94",
+      "seen_at": "2026-06-30 16:48:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/absolute-regression/108/",
+      "manga_title": "Absolute Regression",
+      "chapter_num": "108",
+      "seen_at": "2026-06-30 16:48:24"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/sovereign-of-judgment/88/",
+      "manga_title": "Sovereign of Judgment",
+      "chapter_num": "88",
+      "seen_at": "2026-06-30 16:48:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/sovereign-of-judgment/89/",
+      "manga_title": "Sovereign of Judgment",
+      "chapter_num": "89",
+      "seen_at": "2026-06-30 16:48:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/regressing-as-the-reincarnated-bastard-of-the-sword-clan/100/",
+      "manga_title": "REGRESSING AS THE REINCARNATED BASTARD OF THE SWORD CLAN",
+      "chapter_num": "100",
+      "seen_at": "2026-06-30 16:31:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/regressing-as-the-reincarnated-bastard-of-the-sword-clan/101/",
+      "manga_title": "REGRESSING AS THE REINCARNATED BASTARD OF THE SWORD CLAN",
+      "chapter_num": "101",
+      "seen_at": "2026-06-30 16:31:51"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/how-to-live-as-a-civil-servant-in-murim/62/",
+      "manga_title": "How to Live as a Civil Servant in Murim",
+      "chapter_num": "62",
+      "seen_at": "2026-06-30 16:05:18"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/a-baby-cat-who-commands-the-dog-clan/16/",
+      "manga_title": "A Baby Cat Who Commands the Dog Clan",
+      "chapter_num": "16",
+      "seen_at": "2026-06-30 16:05:17"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/how-to-live-as-a-civil-servant-in-murim/63/",
+      "manga_title": "How to Live as a Civil Servant in Murim",
+      "chapter_num": "63",
+      "seen_at": "2026-06-30 16:05:17"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/a-baby-cat-who-commands-the-dog-clan/17/",
+      "manga_title": "A Baby Cat Who Commands the Dog Clan",
+      "chapter_num": "17",
+      "seen_at": "2026-06-30 16:05:16"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/executioner/59/",
+      "manga_title": "Executioner",
+      "chapter_num": "59",
+      "seen_at": "2026-06-30 16:05:11"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/selling-because-we-broke-up/10/",
+      "manga_title": "Selling Because We Broke Up",
+      "chapter_num": "10",
+      "seen_at": "2026-06-30 16:05:10"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/executioner/60/",
+      "manga_title": "Executioner",
+      "chapter_num": "60",
+      "seen_at": "2026-06-30 16:05:10"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/an-extra-who-wants-to-escape-the-obsessive-male-lead/24/",
+      "manga_title": "An Extra Who Wants to Escape the Obsessive Male Lead",
+      "chapter_num": "24",
+      "seen_at": "2026-06-30 16:05:09"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/selling-because-we-broke-up/11/",
+      "manga_title": "Selling Because We Broke Up",
+      "chapter_num": "11",
+      "seen_at": "2026-06-30 16:05:09"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/an-extra-who-wants-to-escape-the-obsessive-male-lead/25/",
+      "manga_title": "An Extra Who Wants to Escape the Obsessive Male Lead",
+      "chapter_num": "25",
+      "seen_at": "2026-06-30 16:05:08"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/love-obsession-syndrome/38-9/",
+      "manga_title": "Love Obsession Syndrome",
+      "chapter_num": "38.9",
+      "seen_at": "2026-06-30 16:05:07"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/unofficia-campus-couple/5/",
+      "manga_title": "Unofficia Campus Couple",
+      "chapter_num": "5",
+      "seen_at": "2026-06-30 16:05:06"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/love-obsession-syndrome/39/",
+      "manga_title": "Love Obsession Syndrome",
+      "chapter_num": "39",
+      "seen_at": "2026-06-30 16:05:06"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/unofficia-campus-couple/6/",
+      "manga_title": "Unofficia Campus Couple",
+      "chapter_num": "6",
+      "seen_at": "2026-06-30 16:05:05"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-veteran-swordmasters-stream/19/",
+      "manga_title": "The Veteran Swordmaster’s Stream",
+      "chapter_num": "19",
+      "seen_at": "2026-06-30 16:05:00"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-veteran-swordmasters-stream/18/",
+      "manga_title": "The Veteran Swordmaster’s Stream",
+      "chapter_num": "18",
+      "seen_at": "2026-06-30 16:05:00"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/between-the-devil-and-the-deep-sea/16/",
+      "manga_title": "Between the Devil and the Deep Sea",
+      "chapter_num": "16",
+      "seen_at": "2026-06-30 16:04:59"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-clue/3/",
+      "manga_title": "The Clue",
+      "chapter_num": "3",
+      "seen_at": "2026-06-30 16:04:58"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/between-the-devil-and-the-deep-sea/17/",
+      "manga_title": "Between the Devil and the Deep Sea",
+      "chapter_num": "17",
+      "seen_at": "2026-06-30 16:04:58"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/killing-darling-baby-ing/11/",
+      "manga_title": "Killing Darling Baby-ing",
+      "chapter_num": "11",
+      "seen_at": "2026-06-30 16:04:57"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-strongest-actor-in-history/21/",
+      "manga_title": "The Strongest Actor in History",
+      "chapter_num": "21",
+      "seen_at": "2026-06-30 16:04:56"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/killing-darling-baby-ing/12/",
+      "manga_title": "Killing Darling Baby-ing",
+      "chapter_num": "12",
+      "seen_at": "2026-06-30 16:04:56"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-strongest-actor-in-history/22/",
+      "manga_title": "The Strongest Actor in History",
+      "chapter_num": "22",
+      "seen_at": "2026-06-30 16:04:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/gatekeeper-of-the-boundless-world/171/",
+      "manga_title": "Gatekeeper Of The Boundless World",
+      "chapter_num": "171",
+      "seen_at": "2026-06-30 16:04:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/gatekeeper-of-the-boundless-world/172/",
+      "manga_title": "Gatekeeper Of The Boundless World",
+      "chapter_num": "172",
+      "seen_at": "2026-06-30 16:04:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/becoming-a-cthulhuian-overlord/92/",
+      "manga_title": "Becoming a Cthulhuian Overlord",
+      "chapter_num": "92",
+      "seen_at": "2026-06-30 16:04:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/becoming-a-cthulhuian-overlord/91/",
+      "manga_title": "Becoming a Cthulhuian Overlord",
+      "chapter_num": "91",
+      "seen_at": "2026-06-30 16:04:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/martial-evolution-start-by-awakening-the-king-of-monsters/134/",
+      "manga_title": "Martial Evolution: Start by Awakening the King of Monsters",
+      "chapter_num": "134",
+      "seen_at": "2026-06-30 16:04:47"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/marriage-subscription-lottery/1/",
+      "manga_title": "Marriage Subscription Lottery",
+      "chapter_num": "1",
+      "seen_at": "2026-06-30 16:04:46"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/martial-evolution-start-by-awakening-the-king-of-monsters/135/",
+      "manga_title": "Martial Evolution: Start by Awakening the King of Monsters",
+      "chapter_num": "135",
+      "seen_at": "2026-06-30 16:04:46"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/my-husband-was-stolen-twice/17/",
+      "manga_title": "My Husband Was Stolen Twice",
+      "chapter_num": "17",
+      "seen_at": "2026-06-30 16:04:45"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/can-i-cry-now/36/",
+      "manga_title": "Can i cry now?",
+      "chapter_num": "36",
+      "seen_at": "2026-06-30 16:04:44"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/my-husband-was-stolen-twice/18/",
+      "manga_title": "My Husband Was Stolen Twice",
+      "chapter_num": "18",
+      "seen_at": "2026-06-30 16:04:44"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/heavenly-demon-wants-to-be-a-chef/41/",
+      "manga_title": "Heavenly Demon Wants to Be A Chef",
+      "chapter_num": "41",
+      "seen_at": "2026-06-30 16:04:43"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/can-i-cry-now/37/",
+      "manga_title": "Can i cry now?",
+      "chapter_num": "37",
+      "seen_at": "2026-06-30 16:04:43"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/heavenly-demon-wants-to-be-a-chef/42/",
+      "manga_title": "Heavenly Demon Wants to Be A Chef",
+      "chapter_num": "42",
+      "seen_at": "2026-06-30 16:04:41"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/enough-to-make-a-ghost-weep/3/",
+      "manga_title": "Enough to Make a Ghost Weep",
+      "chapter_num": "3",
+      "seen_at": "2026-06-30 16:04:40"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/enough-to-make-a-ghost-weep/4/",
+      "manga_title": "Enough to Make a Ghost Weep",
+      "chapter_num": "4",
+      "seen_at": "2026-06-30 16:04:39"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/feasting-lord-in-another-world/22/",
+      "manga_title": "Feasting Lord in Another world",
+      "chapter_num": "22",
+      "seen_at": "2026-06-30 06:15:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/feasting-lord-in-another-world/23/",
+      "manga_title": "Feasting Lord in Another world",
+      "chapter_num": "23",
+      "seen_at": "2026-06-30 06:15:47"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-stepmother-of-terminally-ill-child/62/",
+      "manga_title": "‏i became the stepmother of terminally ill child",
+      "chapter_num": "62",
+      "seen_at": "2026-06-30 06:10:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-stepmother-of-terminally-ill-child/63/",
+      "manga_title": "‏i became the stepmother of terminally ill child",
+      "chapter_num": "63",
+      "seen_at": "2026-06-30 06:10:47"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-clue/n-a/",
+      "manga_title": "The Clue",
+      "chapter_num": "0",
+      "seen_at": "2026-06-30 06:05:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-clue/1/",
+      "manga_title": "The Clue",
+      "chapter_num": "1",
+      "seen_at": "2026-06-30 06:05:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/amelia-no-koukiteki-romance/11/",
+      "manga_title": "Amelia no Koukiteki Romance",
+      "chapter_num": "11",
+      "seen_at": "2026-06-30 06:05:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/imperfect-cinderella-story/18/",
+      "manga_title": "Imperfect Cinderella Story",
+      "chapter_num": "18",
+      "seen_at": "2026-06-30 06:05:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/amelia-no-koukiteki-romance/12/",
+      "manga_title": "Amelia no Koukiteki Romance",
+      "chapter_num": "12",
+      "seen_at": "2026-06-30 06:05:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/imperfect-cinderella-story/19/",
+      "manga_title": "Imperfect Cinderella Story",
+      "chapter_num": "19",
+      "seen_at": "2026-06-30 06:05:51"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/in-the-ice-emperors-birdcage/25/",
+      "manga_title": "In the Ice Emperor’s Birdcage",
+      "chapter_num": "25",
+      "seen_at": "2026-06-30 06:05:50"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/in-the-ice-emperors-birdcage/24/",
+      "manga_title": "In the Ice Emperor’s Birdcage",
+      "chapter_num": "24",
+      "seen_at": "2026-06-30 06:05:50"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/as-you-wish/21/",
+      "manga_title": "As you wish",
+      "chapter_num": "21",
+      "seen_at": "2026-06-30 06:05:49"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/as-you-wish/22/",
+      "manga_title": "As you wish",
+      "chapter_num": "22",
+      "seen_at": "2026-06-30 06:05:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/koiseyo-mayakashi-tenshi-domo/19/",
+      "manga_title": "Koiseyo Mayakashi Tenshi-domo",
+      "chapter_num": "19",
+      "seen_at": "2026-06-30 06:00:55"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/how-to-get-on-the-main-characters-flower-path/33/",
+      "manga_title": "How to Get On the Main Character’s Flower Path",
+      "chapter_num": "33",
+      "seen_at": "2026-06-30 06:00:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/koiseyo-mayakashi-tenshi-domo/20/",
+      "manga_title": "Koiseyo Mayakashi Tenshi-domo",
+      "chapter_num": "20",
+      "seen_at": "2026-06-30 06:00:54"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/how-to-get-on-the-main-characters-flower-path/34/",
+      "manga_title": "How to Get On the Main Character’s Flower Path",
+      "chapter_num": "34",
+      "seen_at": "2026-06-30 06:00:53"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/houkago-bokura-wa-uchuu-ni-madou-oneshot/2/",
+      "manga_title": "Houkago, Bokura wa Uchuu ni Madou (Oneshot)",
+      "chapter_num": "2",
+      "seen_at": "2026-06-30 06:00:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/houkago-bokura-wa-uchuu-ni-madou-oneshot/1/",
+      "manga_title": "Houkago, Bokura wa Uchuu ni Madou (Oneshot)",
+      "chapter_num": "1",
+      "seen_at": "2026-06-30 06:00:52"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/3-gatsu-no-lion/150/",
+      "manga_title": "3-Gatsu no Lion",
+      "chapter_num": "150",
+      "seen_at": "2026-06-30 06:00:51"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/3-gatsu-no-lion/151/",
+      "manga_title": "3-Gatsu no Lion",
+      "chapter_num": "151",
+      "seen_at": "2026-06-30 06:00:50"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-monster-lady-and-the-holy-knight/76/",
+      "manga_title": "The Monster Lady and the Holy Knight",
+      "chapter_num": "76",
+      "seen_at": "2026-06-30 06:00:49"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-monster-lady-and-the-holy-knight/77/",
+      "manga_title": "The Monster Lady and the Holy Knight",
+      "chapter_num": "77",
+      "seen_at": "2026-06-30 06:00:48"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/absolute-sword-sense/189/",
+      "manga_title": "Absolute Sword Sense",
+      "chapter_num": "189",
+      "seen_at": "2026-06-30 02:33:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-dark-mages-return-to-enlistment/92/",
+      "manga_title": "The Dark Mage’s Return to Enlistment",
+      "chapter_num": "92",
+      "seen_at": "2026-06-30 02:33:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-dark-mages-return-to-enlistment/91/",
+      "manga_title": "The Dark Mage’s Return to Enlistment",
+      "chapter_num": "91",
+      "seen_at": "2026-06-30 02:33:26"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-archmages-restaurant/136/",
+      "manga_title": "The Archmage’s Restaurant",
+      "chapter_num": "136",
+      "seen_at": "2026-06-30 02:33:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/absolute-sword-sense/190/",
+      "manga_title": "Absolute Sword Sense",
+      "chapter_num": "190",
+      "seen_at": "2026-06-30 02:33:25"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-indomitable-martial-king/139/",
+      "manga_title": "The Indomitable Martial King",
+      "chapter_num": "139",
+      "seen_at": "2026-06-30 02:33:24"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/vampires-alchemy/4/",
+      "manga_title": "Vampire’s alchemy",
+      "chapter_num": "4",
+      "seen_at": "2026-06-30 02:33:24"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/vampires-alchemy/3/",
+      "manga_title": "Vampire’s alchemy",
+      "chapter_num": "3",
+      "seen_at": "2026-06-30 02:33:24"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-archmages-restaurant/137/",
+      "manga_title": "The Archmage’s Restaurant",
+      "chapter_num": "137",
+      "seen_at": "2026-06-30 02:33:24"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/demon-lord-leveling-up-with-martial-arts/164/",
+      "manga_title": "Demon Lord Leveling Up With Martial Arts",
+      "chapter_num": "164",
+      "seen_at": "2026-06-30 02:33:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-eternal-supreme/542/",
+      "manga_title": "The Eternal Supreme",
+      "chapter_num": "542",
+      "seen_at": "2026-06-30 02:33:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-eternal-supreme/541/",
+      "manga_title": "The Eternal Supreme",
+      "chapter_num": "541",
+      "seen_at": "2026-06-30 02:33:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-will-raise-this-family-to-greatness/75/",
+      "manga_title": "I Will Raise This Family to Greatness",
+      "chapter_num": "75",
+      "seen_at": "2026-06-30 02:33:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-will-raise-this-family-to-greatness/74/",
+      "manga_title": "I Will Raise This Family to Greatness",
+      "chapter_num": "74",
+      "seen_at": "2026-06-30 02:33:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-indomitable-martial-king/140/",
+      "manga_title": "The Indomitable Martial King",
+      "chapter_num": "140",
+      "seen_at": "2026-06-30 02:33:23"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-leader-of-a-cursed-idol-groupe/40/",
+      "manga_title": "I became the leader of a cursed idol groupe",
+      "chapter_num": "40",
+      "seen_at": "2026-06-30 02:33:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/baby-squirrel-is-good-at-everything/138/",
+      "manga_title": "Baby Squirrel Is Good at Everything",
+      "chapter_num": "138",
+      "seen_at": "2026-06-30 02:33:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/baby-squirrel-is-good-at-everything/137/",
+      "manga_title": "Baby Squirrel Is Good at Everything",
+      "chapter_num": "137",
+      "seen_at": "2026-06-30 02:33:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/national-level-dungeon-architect/26/",
+      "manga_title": "National-Level Dungeon architect",
+      "chapter_num": "26",
+      "seen_at": "2026-06-30 02:33:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/national-level-dungeon-architect/25/",
+      "manga_title": "National-Level Dungeon architect",
+      "chapter_num": "25",
+      "seen_at": "2026-06-30 02:33:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/demon-lord-leveling-up-with-martial-arts/165/",
+      "manga_title": "Demon Lord Leveling Up With Martial Arts",
+      "chapter_num": "165",
+      "seen_at": "2026-06-30 02:33:22"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/archmage-transcending-through-regression/202/",
+      "manga_title": "Archmage Transcending Through Regression",
+      "chapter_num": "202",
+      "seen_at": "2026-06-30 02:33:21"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/interspecies-protection-agency/25/",
+      "manga_title": "Interspecies Protection Agency",
+      "chapter_num": "25",
+      "seen_at": "2026-06-30 02:33:21"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/interspecies-protection-agency/24/",
+      "manga_title": "Interspecies Protection Agency",
+      "chapter_num": "24",
+      "seen_at": "2026-06-30 02:33:21"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/i-became-the-leader-of-a-cursed-idol-groupe/41/",
+      "manga_title": "I became the leader of a cursed idol groupe",
+      "chapter_num": "41",
+      "seen_at": "2026-06-30 02:33:21"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/trapped-as-a-villainous-fake-sister/53/",
+      "manga_title": "Trapped as a Villainous Fake Sister",
+      "chapter_num": "53",
+      "seen_at": "2026-06-30 02:33:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/as-the-heart-leads/57/",
+      "manga_title": "As the Heart Leads",
+      "chapter_num": "57",
+      "seen_at": "2026-06-30 02:33:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/as-the-heart-leads/56/",
+      "manga_title": "As the Heart Leads",
+      "chapter_num": "56",
+      "seen_at": "2026-06-30 02:33:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/surviving-as-twin-sisters/8-5/",
+      "manga_title": "Surviving as twin sisters",
+      "chapter_num": "8.5",
+      "seen_at": "2026-06-30 02:33:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/surviving-as-twin-sisters/8/",
+      "manga_title": "Surviving as twin sisters",
+      "chapter_num": "8",
+      "seen_at": "2026-06-30 02:33:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/archmage-transcending-through-regression/203/",
+      "manga_title": "Archmage Transcending Through Regression",
+      "chapter_num": "203",
+      "seen_at": "2026-06-30 02:33:20"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/lets-make-saving-a-habit/23/",
+      "manga_title": "Let’s Make Saving a Habit",
+      "chapter_num": "23",
+      "seen_at": "2026-06-30 02:33:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-black-haired-u-s-army-general/36/",
+      "manga_title": "The Black-Haired U.S. Army General",
+      "chapter_num": "36",
+      "seen_at": "2026-06-30 02:33:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/the-black-haired-u-s-army-general/35_1/",
+      "manga_title": "The Black-Haired U.S. Army General",
+      "chapter_num": "35",
+      "seen_at": "2026-06-30 02:33:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/veterinarian-hello/134/",
+      "manga_title": "?Veterinarian! hello",
+      "chapter_num": "134",
+      "seen_at": "2026-06-30 02:33:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/veterinarian-hello/133/",
+      "manga_title": "?Veterinarian! hello",
+      "chapter_num": "133",
+      "seen_at": "2026-06-30 02:33:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/trapped-as-a-villainous-fake-sister/54/",
+      "manga_title": "Trapped as a Villainous Fake Sister",
+      "chapter_num": "54",
+      "seen_at": "2026-06-30 02:33:19"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/kingdom/881/",
+      "manga_title": "Kingdom",
+      "chapter_num": "881",
+      "seen_at": "2026-06-30 02:33:18"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/kingdom/880/",
+      "manga_title": "Kingdom",
+      "chapter_num": "880",
+      "seen_at": "2026-06-30 02:33:18"
+    },
+    {
+      "chapter_url": "https://manga-starz.net/manga/lets-make-saving-a-habit/24/",
+      "manga_title": "Let’s Make Saving a Habit",
+      "chapter_num": "24",
+      "seen_at": "2026-06-30 02:33:18"
+    }
+  ],
+  "seen_tweets": [
+    {
+      "tweet_id": "1252678186380427264",
+      "seen_at": "2026-06-30 04:24:47"
+    },
+    {
+      "tweet_id": "1527212467041931265",
+      "seen_at": "2026-06-30 04:40:20"
+    },
+    {
+      "tweet_id": "1531636868114096128",
+      "seen_at": "2026-06-30 04:40:21"
+    },
+    {
+      "tweet_id": "1557737098462969861",
+      "seen_at": "2026-06-30 04:40:21"
+    },
+    {
+      "tweet_id": "1566472155901992960",
+      "seen_at": "2026-06-30 04:40:21"
+    },
+    {
+      "tweet_id": "1572163659576606720",
+      "seen_at": "2026-06-30 04:40:22"
+    },
+    {
+      "tweet_id": "1580575336219148289",
+      "seen_at": "2026-06-30 04:40:22"
+    },
+    {
+      "tweet_id": "1599459769634496513",
+      "seen_at": "2026-06-30 04:40:23"
+    },
+    {
+      "tweet_id": "1600874844026970114",
+      "seen_at": "2026-06-30 04:40:27"
+    },
+    {
+      "tweet_id": "1619360903308214272",
+      "seen_at": "2026-06-30 04:40:28"
+    },
+    {
+      "tweet_id": "1620467444753088513",
+      "seen_at": "2026-06-30 04:40:28"
+    },
+    {
+      "tweet_id": "1623020265491017728",
+      "seen_at": "2026-06-30 04:40:29"
+    },
+    {
+      "tweet_id": "1627348535606751233",
+      "seen_at": "2026-06-30 04:40:29"
+    },
+    {
+      "tweet_id": "1651647780362780672",
+      "seen_at": "2026-06-30 04:40:30"
+    },
+    {
+      "tweet_id": "1651904105558753282",
+      "seen_at": "2026-06-30 04:40:30"
+    },
+    {
+      "tweet_id": "1666093894545850368",
+      "seen_at": "2026-06-30 04:40:35"
+    },
+    {
+      "tweet_id": "1676561634251218945",
+      "seen_at": "2026-06-30 04:40:35"
+    },
+    {
+      "tweet_id": "1678827526028685333",
+      "seen_at": "2026-06-30 04:40:36"
+    },
+    {
+      "tweet_id": "1688250212182114305",
+      "seen_at": "2026-06-30 04:40:36"
+    },
+    {
+      "tweet_id": "1691480690414563328",
+      "seen_at": "2026-06-30 04:40:37"
+    },
+    {
+      "tweet_id": "1990011967730339847",
+      "seen_at": "2026-06-30 04:40:37"
+    }
+  ],
+  "series_type_cache": [
+    {
+      "manga_url": "https://manga-starz.net/manga/kingdom/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-06-30 02:33:18"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/lets-make-saving-a-habit/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:19"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-black-haired-u-s-army-general/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:19"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/veterinarian-hello/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:19"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/trapped-as-a-villainous-fake-sister/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-06-30 02:33:20"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/as-the-heart-leads/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:20"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/surviving-as-twin-sisters/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:20"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/archmage-transcending-through-regression/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:21"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/interspecies-protection-agency/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:21"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/i-became-the-leader-of-a-cursed-idol-groupe/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:22"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/baby-squirrel-is-good-at-everything/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:22"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/national-level-dungeon-architect/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:22"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/demon-lord-leveling-up-with-martial-arts/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:23"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-eternal-supreme/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-06-30 02:33:23"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/i-will-raise-this-family-to-greatness/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:23"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-indomitable-martial-king/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:24"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/vampires-alchemy/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:24"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-archmages-restaurant/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:25"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/absolute-sword-sense/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 02:33:25"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-dark-mages-return-to-enlistment/",
+      "series_type": "",
+      "cached_at": "2026-06-30 02:33:26"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-monster-lady-and-the-holy-knight/",
+      "series_type": "",
+      "cached_at": "2026-06-30 06:00:49"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/3-gatsu-no-lion/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-06-30 06:00:50"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/houkago-bokura-wa-uchuu-ni-madou-oneshot/",
+      "series_type": "",
+      "cached_at": "2026-06-30 06:00:52"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/how-to-get-on-the-main-characters-flower-path/",
+      "series_type": "",
+      "cached_at": "2026-06-30 06:00:53"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/koiseyo-mayakashi-tenshi-domo/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-06-30 06:00:54"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/as-you-wish/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 06:05:49"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/in-the-ice-emperors-birdcage/",
+      "series_type": "",
+      "cached_at": "2026-06-30 06:05:50"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/imperfect-cinderella-story/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 06:05:51"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/amelia-no-koukiteki-romance/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-06-30 06:05:53"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-clue/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 06:05:54"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/i-became-the-stepmother-of-terminally-ill-child/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-06-30 06:10:47"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/feasting-lord-in-another-world/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 06:15:47"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/enough-to-make-a-ghost-weep/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:04:40"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/heavenly-demon-wants-to-be-a-chef/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:04:41"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/can-i-cry-now/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:04:43"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/my-husband-was-stolen-twice/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:04:45"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/marriage-subscription-lottery/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:04:46"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/martial-evolution-start-by-awakening-the-king-of-monsters/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-06-30 16:04:47"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/becoming-a-cthulhuian-overlord/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-06-30 16:04:48"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/gatekeeper-of-the-boundless-world/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-06-30 16:04:53"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-strongest-actor-in-history/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:04:55"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/killing-darling-baby-ing/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:04:57"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/between-the-devil-and-the-deep-sea/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:04:59"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-veteran-swordmasters-stream/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:05:00"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/unofficia-campus-couple/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:05:05"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/love-obsession-syndrome/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:05:07"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/an-extra-who-wants-to-escape-the-obsessive-male-lead/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:05:08"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/selling-because-we-broke-up/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:05:09"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/executioner/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:05:11"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/a-baby-cat-who-commands-the-dog-clan/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:05:16"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/how-to-live-as-a-civil-servant-in-murim/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:05:17"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/regressing-as-the-reincarnated-bastard-of-the-sword-clan/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:31:52"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/sovereign-of-judgment/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:48:23"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/absolute-regression/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:48:24"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/reincarnated-as-a-genius-prodigy-of-a-prestigious-family/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 16:48:26"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-ultimate-weapon-returns-after-100-million-years/",
+      "series_type": "",
+      "cached_at": "2026-06-30 16:59:33"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/to-my-sweetheart/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-06-30 16:59:46"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-evil-ring/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-06-30 16:59:47"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/in-the-words-of-beloved-sun/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 17:26:45"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/i-became-the-rogue-first-prince/",
+      "series_type": "",
+      "cached_at": "2026-06-30 17:28:09"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-regressed-mercenarys-machinations/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-06-30 17:28:10"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/juvenile-prison/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:55:52"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/contract-admissions/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:55:54"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/reality-quest/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:55:55"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/jungle-juice/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:55:56"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/watch-out-for-look-alikes/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:55:58"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/bully-conquest/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:56:03"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/lookism/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:56:04"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/rookie-but-one-in-a-million-actor/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:56:06"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-regressed-son-of-a-duke-is-an-assassin/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:56:07"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/develys-healing-time/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:56:09"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/wana-ni-kakatta-villain-kun/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-07-02 18:56:14"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/our-guilds-idol/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:56:16"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-perfect-seniors-secret/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:56:17"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/i-gave-up-being-stronger/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:56:19"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/a-boy-raised-by-the-ultimate-dragon-wants-to-be-fostered-by-someone-stronger-than-his-parent/",
+      "series_type": "",
+      "cached_at": "2026-07-02 18:56:20"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/return-of-the-apocalypse-class-death-knight/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:56:26"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/cardcaptor-sakura-clear-card-arc/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-07-02 18:56:28"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/all-my-alter-egos-are-tycoons/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 18:56:29"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-law-of-immutability/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 19:08:33"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-beginning-after-the-end/",
+      "series_type": "",
+      "cached_at": "2026-07-02 19:08:34"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/artifact-devouring-player/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 19:08:36"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/fog-land/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-02 19:19:37"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/hunter-x-hunter/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-07-02 22:41:56"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/i-took-over-the-academy-with-a-single-sashimi-knife/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:12:52"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/dao-of-the-bizarre-immortal/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-07-03 12:12:53"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-regressed-extra-becomes-a-genius/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:12:55"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-return-of-the-unrivaled-genius-ranker/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:12:56"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-reincarnated-assassin-is-a-genius-swordsman/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:12:57"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/magic-emperor/",
+      "series_type": "🇨🇳 مانها",
+      "cached_at": "2026-07-03 12:13:03"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-ruler-of-darkness/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:04"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/raising-villains-the-right-way/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:06"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/dark-and-light-martial-emperor/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:07"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-extras-academy-survival-guide/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:08"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/villain-is-here/",
+      "series_type": "📚 مانغا",
+      "cached_at": "2026-07-03 12:13:14"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/like-a-chilling-flame/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:15"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-necromancer-of-a-renowned-sword-family/",
+      "series_type": "",
+      "cached_at": "2026-07-03 12:13:16"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/rebirth-of-the-divine-demon/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:18"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/after-the-school-belle-dumped-me-i-became-a-martial-arts-god/",
+      "series_type": "",
+      "cached_at": "2026-07-03 12:13:20"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-support-ate-it-all/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:21"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/solo-max-level-newbie/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:13:27"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-seventh-prince-wants-to-bail/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:24:24"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/voodoo-slam/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 12:24:26"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/the-god-of-war-is-leveling-up/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 13:19:57"
+    },
+    {
+      "manga_url": "https://manga-starz.net/manga/underworld-restaurant/",
+      "series_type": "🇰🇷 مانهوا",
+      "cached_at": "2026-07-03 13:19:58"
+    }
+  ]
+}
